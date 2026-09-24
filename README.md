@@ -10,7 +10,7 @@ Beyond cloud, I love collaborating on projects, solving complex problems, and co
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu619" alt="himanshu619" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://himanshu5619.github.io/Portfolio/](https://himanshu5619.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://himanshu5619.github.io/Portfolio/](https://himanshu5619.github.io/my-portfolio/)
 
 - 📫 How to reach me **himanshu.s19@proton.me**
 
